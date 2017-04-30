@@ -1,0 +1,1 @@
+{  "name": "Node Task API - Documentation",  "template": {    "forceLanguage": "en"  },  "version": "1.0.0",  "description": "testing",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2017-04-29T16:24:10.548Z",    "url": "http://apidocjs.com",    "version": "0.15.1"  }}

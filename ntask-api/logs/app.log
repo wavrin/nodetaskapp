@@ -1,0 +1,236 @@
+{"level":"info","message":"::1 - - [26/Apr/2017:21:03:00 +0000] \"GET / HTTP/1.1\" 200 29\n","timestamp":"2017-04-26T21:03:00.607Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:03:02 +0000] \"GET / HTTP/1.1\" 304 -\n","timestamp":"2017-04-26T21:03:02.591Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:03:04 +0000] \"GET /tasks HTTP/1.1\" 401 -\n","timestamp":"2017-04-26T21:03:04.669Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:03:08 +0000] \"GET / HTTP/1.1\" 304 -\n","timestamp":"2017-04-26T21:03:08.365Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:03:38 +0000] \"GET / HTTP/1.1\" 304 -\n","timestamp":"2017-04-26T21:03:38.960Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:03:41 +0000] \"GET / HTTP/1.1\" 304 -\n","timestamp":"2017-04-26T21:03:41.175Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:47 +0000] \"GET / HTTP/1.1\" 200 29\n","timestamp":"2017-04-26T21:12:47.775Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:49 +0000] \"GET / HTTP/1.1\" 304 -\n","timestamp":"2017-04-26T21:12:49.388Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:53 +0000] \"GET /apidoc/ HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:53.698Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:53 +0000] \"GET /apidoc/vendor/bootstrap.min.css HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:53.733Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:53 +0000] \"GET /apidoc/vendor/require.min.js HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:53.744Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:53 +0000] \"GET /apidoc/vendor/prettify.css HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:53.789Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:53 +0000] \"GET /apidoc/css/style.css HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:53.785Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:53 +0000] \"GET /apidoc/vendor/polyfill.js HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:53.785Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:53 +0000] \"GET /apidoc/main.js HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:53.910Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:53 +0000] \"GET /apidoc/api_project.js?v=1493241173926 HTTP/1.1\" 200 337\n","timestamp":"2017-04-26T21:12:53.973Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:53 +0000] \"GET /apidoc/utils/send_sample_request.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:53.977Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:53 +0000] \"GET /apidoc/api_data.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:53.982Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:53 +0000] \"GET /apidoc/vendor/jquery.min.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:53.987Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:53 +0000] \"GET /apidoc/vendor/lodash.min.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:53.991Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:53 +0000] \"GET /apidoc/locales/locale.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:53.992Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/vendor/semver.min.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.003Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/vendor/webfontloader.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.008Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/vendor/path-to-regexp/index.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.012Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/vendor/prettify/prettify.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.028Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/vendor/handlebars.min.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.082Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/locales/ca.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.121Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/locales/de.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.123Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/locales/es.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.123Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/locales/fr.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.125Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/locales/nl.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.126Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/locales/pl.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.164Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/locales/pt_br.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.200Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/locales/ru.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.206Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/locales/zh_cn.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.209Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/locales/zh.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.210Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/vendor/bootstrap.min.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.221Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/utils/handlebars_helper.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.239Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:54 +0000] \"GET /apidoc/vendor/diff_match_patch.min.js?v=1493241173926 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:12:54.325Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:59 +0000] \"GET /apidoc/vendor/bootstrap.min.css HTTP/1.1\" 304 -\n","timestamp":"2017-04-26T21:12:59.252Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:59 +0000] \"GET /apidoc/vendor/prettify.css HTTP/1.1\" 304 -\n","timestamp":"2017-04-26T21:12:59.255Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:12:59 +0000] \"GET /apidoc/css/style.css HTTP/1.1\" 304 -\n","timestamp":"2017-04-26T21:12:59.257Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/ HTTP/1.1\" 304 -\n","timestamp":"2017-04-26T21:13:08.035Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/vendor/bootstrap.min.css HTTP/1.1\" 304 -\n","timestamp":"2017-04-26T21:13:08.058Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/css/style.css HTTP/1.1\" 304 -\n","timestamp":"2017-04-26T21:13:08.060Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/vendor/prettify.css HTTP/1.1\" 304 -\n","timestamp":"2017-04-26T21:13:08.062Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/vendor/require.min.js HTTP/1.1\" 304 -\n","timestamp":"2017-04-26T21:13:08.066Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/vendor/polyfill.js HTTP/1.1\" 304 -\n","timestamp":"2017-04-26T21:13:08.063Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/main.js HTTP/1.1\" 304 -\n","timestamp":"2017-04-26T21:13:08.413Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/locales/locale.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.515Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/vendor/lodash.min.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.516Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/vendor/jquery.min.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.519Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/api_project.js?v=1493241188425 HTTP/1.1\" 200 337\n","timestamp":"2017-04-26T21:13:08.520Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/api_data.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.534Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/utils/send_sample_request.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.535Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/vendor/semver.min.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.538Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/vendor/webfontloader.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.544Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/vendor/path-to-regexp/index.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.563Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/vendor/prettify/prettify.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.652Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/locales/ca.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.721Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/locales/de.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.721Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/locales/fr.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.727Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/locales/es.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.728Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/locales/nl.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.734Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/locales/pl.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.773Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/locales/pt_br.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.798Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/locales/ru.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.799Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/locales/zh.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.807Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/locales/zh_cn.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.809Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/vendor/bootstrap.min.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.819Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/vendor/handlebars.min.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.834Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:08 +0000] \"GET /apidoc/utils/handlebars_helper.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:08.990Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:09 +0000] \"GET /apidoc/vendor/diff_match_patch.min.js?v=1493241188425 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:09.076Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:55 +0000] \"GET /apidoc/ HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:55.904Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:55 +0000] \"GET /apidoc/vendor/bootstrap.min.css HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:55.945Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:55 +0000] \"GET /apidoc/vendor/require.min.js HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:55.952Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:55 +0000] \"GET /apidoc/css/style.css HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:55.958Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:55 +0000] \"GET /apidoc/vendor/polyfill.js HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:55.960Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:55 +0000] \"GET /apidoc/vendor/prettify.css HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:55.949Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/main.js HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.272Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/locales/locale.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.375Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/vendor/lodash.min.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.378Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/vendor/jquery.min.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.382Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/api_project.js?v=1493241236275 HTTP/1.1\" 200 337\n","timestamp":"2017-04-26T21:13:56.391Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/api_data.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.395Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/utils/send_sample_request.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.431Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/vendor/path-to-regexp/index.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.431Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/vendor/semver.min.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.437Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/vendor/webfontloader.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.439Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/vendor/prettify/prettify.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.525Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/locales/ca.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.636Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/locales/de.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.637Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/locales/es.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.639Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/locales/fr.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.639Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/locales/nl.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.646Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/locales/pl.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.655Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/locales/pt_br.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.668Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/locales/zh.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.671Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/locales/ru.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.673Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/locales/zh_cn.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.677Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/vendor/bootstrap.min.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.684Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/vendor/handlebars.min.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.686Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/utils/handlebars_helper.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.918Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:13:56 +0000] \"GET /apidoc/vendor/diff_match_patch.min.js?v=1493241236275 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:13:56.950Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/ HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.013Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/vendor/bootstrap.min.css HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.059Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/vendor/polyfill.js HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.076Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/css/style.css HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.093Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/vendor/prettify.css HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.095Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/vendor/require.min.js HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.097Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/main.js HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.409Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/locales/locale.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.453Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/vendor/lodash.min.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.457Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/vendor/jquery.min.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.464Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/api_project.js?v=1493241342417 HTTP/1.1\" 200 337\n","timestamp":"2017-04-26T21:15:42.465Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/api_data.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.474Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/utils/send_sample_request.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.479Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/vendor/path-to-regexp/index.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.486Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/vendor/webfontloader.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.492Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/vendor/semver.min.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.494Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/vendor/prettify/prettify.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.593Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/locales/ca.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.745Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/locales/de.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.747Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/locales/es.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.747Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/locales/fr.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.749Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/locales/nl.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.749Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/locales/pl.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.761Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/locales/pt_br.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.777Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/locales/ru.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.779Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/locales/zh.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.781Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/locales/zh_cn.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.785Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/vendor/handlebars.min.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.790Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:42 +0000] \"GET /apidoc/vendor/bootstrap.min.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:42.792Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:43 +0000] \"GET /apidoc/utils/handlebars_helper.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:43.030Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:15:43 +0000] \"GET /apidoc/vendor/diff_match_patch.min.js?v=1493241342417 HTTP/1.1\" 200 -\n","timestamp":"2017-04-26T21:15:43.059Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:35:38 +0000] \"GET / HTTP/1.1\" 200 29\n","timestamp":"2017-04-26T21:35:38.981Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:35:43 +0000] \"GET /tasks HTTP/1.1\" 401 -\n","timestamp":"2017-04-26T21:35:43.206Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:36:21 +0000] \"GET / HTTP/1.1\" 200 29\n","timestamp":"2017-04-26T21:36:21.138Z"}
+{"level":"info","message":"::1 - - [26/Apr/2017:21:36:42 +0000] \"GET / HTTP/1.1\" 200 29\n","timestamp":"2017-04-26T21:36:42.903Z"}
+{"level":"info","message":"::1 - - [27/Apr/2017:20:01:52 +0000] \"GET / HTTP/1.1\" 200 29\n","timestamp":"2017-04-27T20:01:52.973Z"}
+{"level":"info","message":"::1 - - [27/Apr/2017:20:01:53 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150\n","timestamp":"2017-04-27T20:01:53.197Z"}
+{"level":"info","message":"::1 - - [27/Apr/2017:20:01:56 +0000] \"GET /tasks HTTP/1.1\" 401 -\n","timestamp":"2017-04-27T20:01:56.984Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Apr/2017:20:06:11 +0000] \"GET / HTTP/1.1\" 200 29\n","timestamp":"2017-04-27T20:06:11.489Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Apr/2017:20:06:11 +0000] \"GET /tasks HTTP/1.1\" 200 403\n","timestamp":"2017-04-27T20:06:11.665Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Apr/2017:20:06:11 +0000] \"POST /tasks HTTP/1.1\" 200 165\n","timestamp":"2017-04-27T20:06:11.806Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Apr/2017:20:06:11 +0000] \"GET /tasks/1 HTTP/1.1\" 200 166\n","timestamp":"2017-04-27T20:06:11.916Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Apr/2017:20:06:12 +0000] \"GET /tasks/0 HTTP/1.1\" 404 9\n","timestamp":"2017-04-27T20:06:12.022Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Apr/2017:20:06:12 +0000] \"PUT /tasks/1 HTTP/1.1\" 204 -\n","timestamp":"2017-04-27T20:06:12.133Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Apr/2017:20:06:12 +0000] \"DELETE /tasks/1 HTTP/1.1\" 204 -\n","timestamp":"2017-04-27T20:06:12.236Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Apr/2017:20:06:12 +0000] \"POST /token HTTP/1.1\" 200 112\n","timestamp":"2017-04-27T20:06:12.402Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Apr/2017:20:06:12 +0000] \"POST /token HTTP/1.1\" 401 12\n","timestamp":"2017-04-27T20:06:12.572Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Apr/2017:20:06:12 +0000] \"POST /token HTTP/1.1\" 401 12\n","timestamp":"2017-04-27T20:06:12.676Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Apr/2017:20:06:12 +0000] \"POST /token HTTP/1.1\" 401 12\n","timestamp":"2017-04-27T20:06:12.765Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Apr/2017:20:06:12 +0000] \"GET /user HTTP/1.1\" 200 66\n","timestamp":"2017-04-27T20:06:12.869Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Apr/2017:20:06:12 +0000] \"DELETE /user HTTP/1.1\" 204 -\n","timestamp":"2017-04-27T20:06:12.968Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [27/Apr/2017:20:06:13 +0000] \"POST /users HTTP/1.1\" 200 238\n","timestamp":"2017-04-27T20:06:13.138Z"}
+{"level":"info","message":"::1 - - [27/Apr/2017:21:26:59 +0000] \"GET / HTTP/1.1\" 200 29\n","timestamp":"2017-04-27T21:26:59.263Z"}
+{"level":"info","message":"::1 - - [27/Apr/2017:21:26:59 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150\n","timestamp":"2017-04-27T21:26:59.497Z"}
+{"level":"info","message":"::1 - - [27/Apr/2017:21:28:53 +0000] \"OPTIONS /users HTTP/1.1\" 204 -\n","timestamp":"2017-04-27T21:28:53.023Z"}
+{"level":"info","message":"::1 - - [27/Apr/2017:21:29:29 +0000] \"OPTIONS /users HTTP/1.1\" 204 -\n","timestamp":"2017-04-27T21:29:29.465Z"}
+{"level":"info","message":"::1 - - [27/Apr/2017:21:38:46 +0000] \"GET / HTTP/1.1\" 200 29\n","timestamp":"2017-04-27T21:38:46.336Z"}
+{"level":"info","message":"::1 - - [27/Apr/2017:21:38:46 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150\n","timestamp":"2017-04-27T21:38:46.689Z"}
+{"level":"info","message":"::1 - - [27/Apr/2017:21:39:22 +0000] \"OPTIONS /users HTTP/1.1\" 204 -\n","timestamp":"2017-04-27T21:39:22.837Z"}
+{"level":"info","message":"[Thu Apr 27 2017 16:39:22 GMT-0500 (CDT)] Executing (default): INSERT INTO `Users` (`id`,`name`,`password`,`email`,`created_at`,`updated_at`) VALUES (NULL,'Christopher Wavrin','$2a$10$4n3okbhT1oFJbMOyNVS0M.O2E4SlhiDGfwJXzSJDmprP9irf0cife','wavrin@gmail.com','2017-04-27 21:39:22.875 +00:00','2017-04-27 21:39:22.875 +00:00');","timestamp":"2017-04-27T21:39:22.968Z"}
+{"level":"info","message":"::1 - - [27/Apr/2017:21:39:22 +0000] \"POST /users HTTP/1.1\" 200 255\n","timestamp":"2017-04-27T21:39:22.978Z"}
+{"level":"info","message":"::1 - - [27/Apr/2017:21:39:37 +0000] \"OPTIONS /token HTTP/1.1\" 204 -\n","timestamp":"2017-04-27T21:39:37.034Z"}
+{"level":"info","message":"[Thu Apr 27 2017 16:39:37 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'wavrin@gmail.com' LIMIT 1;","timestamp":"2017-04-27T21:39:37.045Z"}
+{"level":"info","message":"::1 - - [27/Apr/2017:21:39:37 +0000] \"POST /token HTTP/1.1\" 200 112\n","timestamp":"2017-04-27T21:39:37.134Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:21 +0000] \"OPTIONS /token HTTP/1.1\" 204 -\n","timestamp":"2017-04-29T16:25:21.968Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:22 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'wavrin@gmail.com' LIMIT 1;","timestamp":"2017-04-29T16:25:22.007Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:22 +0000] \"POST /token HTTP/1.1\" 200 112\n","timestamp":"2017-04-29T16:25:22.094Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:22 +0000] \"OPTIONS /tasks HTTP/1.1\" 204 -\n","timestamp":"2017-04-29T16:25:22.100Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:22 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:25:22.111Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:22 GMT-0500 (CDT)] Executing (default): SELECT `id`, `title`, `done`, `created_at`, `updated_at`, `user_id` FROM `Tasks` AS `Tasks` WHERE `Tasks`.`user_id` = 29;","timestamp":"2017-04-29T16:25:22.117Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:22 +0000] \"GET /tasks HTTP/1.1\" 200 2\n","timestamp":"2017-04-29T16:25:22.121Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:34 +0000] \"OPTIONS /tasks HTTP/1.1\" 204 -\n","timestamp":"2017-04-29T16:25:34.077Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:34 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:25:34.082Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:34 GMT-0500 (CDT)] Executing (default): INSERT INTO `Tasks` (`id`,`title`,`done`,`created_at`,`updated_at`,`user_id`) VALUES (NULL,'This is teask one',0,'2017-04-29 16:25:34.086 +00:00','2017-04-29 16:25:34.086 +00:00',29);","timestamp":"2017-04-29T16:25:34.094Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:34 +0000] \"POST /tasks HTTP/1.1\" 200 179\n","timestamp":"2017-04-29T16:25:34.098Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:34 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:25:34.106Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:34 GMT-0500 (CDT)] Executing (default): SELECT `id`, `title`, `done`, `created_at`, `updated_at`, `user_id` FROM `Tasks` AS `Tasks` WHERE `Tasks`.`user_id` = 29;","timestamp":"2017-04-29T16:25:34.108Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:34 +0000] \"GET /tasks HTTP/1.1\" 200 215\n","timestamp":"2017-04-29T16:25:34.111Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:40 +0000] \"OPTIONS /tasks HTTP/1.1\" 204 -\n","timestamp":"2017-04-29T16:25:40.142Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:40 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:25:40.148Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:40 GMT-0500 (CDT)] Executing (default): INSERT INTO `Tasks` (`id`,`title`,`done`,`created_at`,`updated_at`,`user_id`) VALUES (NULL,'This is task two',0,'2017-04-29 16:25:40.150 +00:00','2017-04-29 16:25:40.150 +00:00',29);","timestamp":"2017-04-29T16:25:40.152Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:40 +0000] \"POST /tasks HTTP/1.1\" 200 178\n","timestamp":"2017-04-29T16:25:40.156Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:40 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:25:40.161Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:40 GMT-0500 (CDT)] Executing (default): SELECT `id`, `title`, `done`, `created_at`, `updated_at`, `user_id` FROM `Tasks` AS `Tasks` WHERE `Tasks`.`user_id` = 29;","timestamp":"2017-04-29T16:25:40.165Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:40 +0000] \"GET /tasks HTTP/1.1\" 200 427\n","timestamp":"2017-04-29T16:25:40.167Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:45 +0000] \"OPTIONS /tasks HTTP/1.1\" 204 -\n","timestamp":"2017-04-29T16:25:45.307Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:45 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:25:45.311Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:45 GMT-0500 (CDT)] Executing (default): INSERT INTO `Tasks` (`id`,`title`,`done`,`created_at`,`updated_at`,`user_id`) VALUES (NULL,'Task Three',0,'2017-04-29 16:25:45.313 +00:00','2017-04-29 16:25:45.313 +00:00',29);","timestamp":"2017-04-29T16:25:45.314Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:45 +0000] \"POST /tasks HTTP/1.1\" 200 172\n","timestamp":"2017-04-29T16:25:45.318Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:45 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:25:45.325Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:45 GMT-0500 (CDT)] Executing (default): SELECT `id`, `title`, `done`, `created_at`, `updated_at`, `user_id` FROM `Tasks` AS `Tasks` WHERE `Tasks`.`user_id` = 29;","timestamp":"2017-04-29T16:25:45.328Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:45 +0000] \"GET /tasks HTTP/1.1\" 200 633\n","timestamp":"2017-04-29T16:25:45.331Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:47 +0000] \"OPTIONS /tasks/6 HTTP/1.1\" 204 -\n","timestamp":"2017-04-29T16:25:47.638Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:47 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:25:47.643Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:47 GMT-0500 (CDT)] Executing (default): UPDATE `Tasks` SET `done`=1,`updated_at`='2017-04-29 16:25:47.646 +00:00' WHERE `id` = '6' AND `user_id` = 29","timestamp":"2017-04-29T16:25:47.648Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:47 +0000] \"PUT /tasks/6 HTTP/1.1\" 204 -\n","timestamp":"2017-04-29T16:25:47.653Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:47 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:25:47.658Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:47 GMT-0500 (CDT)] Executing (default): SELECT `id`, `title`, `done`, `created_at`, `updated_at`, `user_id` FROM `Tasks` AS `Tasks` WHERE `Tasks`.`user_id` = 29;","timestamp":"2017-04-29T16:25:47.660Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:47 +0000] \"GET /tasks HTTP/1.1\" 200 632\n","timestamp":"2017-04-29T16:25:47.664Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:48 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:25:48.415Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:48 GMT-0500 (CDT)] Executing (default): UPDATE `Tasks` SET `done`=0,`updated_at`='2017-04-29 16:25:48.416 +00:00' WHERE `id` = '6' AND `user_id` = 29","timestamp":"2017-04-29T16:25:48.418Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:48 +0000] \"PUT /tasks/6 HTTP/1.1\" 204 -\n","timestamp":"2017-04-29T16:25:48.421Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:48 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:25:48.426Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:48 GMT-0500 (CDT)] Executing (default): SELECT `id`, `title`, `done`, `created_at`, `updated_at`, `user_id` FROM `Tasks` AS `Tasks` WHERE `Tasks`.`user_id` = 29;","timestamp":"2017-04-29T16:25:48.428Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:48 +0000] \"GET /tasks HTTP/1.1\" 200 633\n","timestamp":"2017-04-29T16:25:48.432Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:50 +0000] \"OPTIONS /user HTTP/1.1\" 204 -\n","timestamp":"2017-04-29T16:25:50.495Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:50 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:25:50.501Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:25:50 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `email` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:25:50.506Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:25:50 +0000] \"GET /user HTTP/1.1\" 200 83\n","timestamp":"2017-04-29T16:25:50.507Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:26:07 +0000] \"OPTIONS /token HTTP/1.1\" 204 -\n","timestamp":"2017-04-29T16:26:07.571Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:26:07 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'wavrin@gmail.com' LIMIT 1;","timestamp":"2017-04-29T16:26:07.576Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:26:07 +0000] \"POST /token HTTP/1.1\" 200 112\n","timestamp":"2017-04-29T16:26:07.658Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:26:07 +0000] \"OPTIONS /tasks HTTP/1.1\" 204 -\n","timestamp":"2017-04-29T16:26:07.668Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:26:07 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:26:07.675Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:26:07 GMT-0500 (CDT)] Executing (default): SELECT `id`, `title`, `done`, `created_at`, `updated_at`, `user_id` FROM `Tasks` AS `Tasks` WHERE `Tasks`.`user_id` = 29;","timestamp":"2017-04-29T16:26:07.678Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:26:07 +0000] \"GET /tasks HTTP/1.1\" 200 633\n","timestamp":"2017-04-29T16:26:07.682Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:26:16 +0000] \"OPTIONS /user HTTP/1.1\" 204 -\n","timestamp":"2017-04-29T16:26:16.249Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:26:16 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:26:16.254Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:26:16 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `email` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:26:16.261Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:26:16 +0000] \"GET /user HTTP/1.1\" 200 83\n","timestamp":"2017-04-29T16:26:16.263Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:26:17 +0000] \"OPTIONS /tasks HTTP/1.1\" 204 -\n","timestamp":"2017-04-29T16:26:17.980Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:26:17 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:26:17.985Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:26:17 GMT-0500 (CDT)] Executing (default): SELECT `id`, `title`, `done`, `created_at`, `updated_at`, `user_id` FROM `Tasks` AS `Tasks` WHERE `Tasks`.`user_id` = 29;","timestamp":"2017-04-29T16:26:17.989Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:26:17 +0000] \"GET /tasks HTTP/1.1\" 200 633\n","timestamp":"2017-04-29T16:26:17.997Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:26:23 +0000] \"OPTIONS /tasks/7 HTTP/1.1\" 204 -\n","timestamp":"2017-04-29T16:26:23.751Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:26:23 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:26:23.755Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:26:23 GMT-0500 (CDT)] Executing (default): DELETE FROM `Tasks` WHERE `id` = '7' AND `user_id` = 29","timestamp":"2017-04-29T16:26:23.760Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:26:23 +0000] \"DELETE /tasks/7 HTTP/1.1\" 204 -\n","timestamp":"2017-04-29T16:26:23.764Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:26:23 +0000] \"OPTIONS /tasks HTTP/1.1\" 204 -\n","timestamp":"2017-04-29T16:26:23.767Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:26:23 GMT-0500 (CDT)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 29;","timestamp":"2017-04-29T16:26:23.773Z"}
+{"level":"info","message":"[Sat Apr 29 2017 11:26:23 GMT-0500 (CDT)] Executing (default): SELECT `id`, `title`, `done`, `created_at`, `updated_at`, `user_id` FROM `Tasks` AS `Tasks` WHERE `Tasks`.`user_id` = 29;","timestamp":"2017-04-29T16:26:23.775Z"}
+{"level":"info","message":"::1 - - [29/Apr/2017:16:26:23 +0000] \"GET /tasks HTTP/1.1\" 200 427\n","timestamp":"2017-04-29T16:26:23.780Z"}
